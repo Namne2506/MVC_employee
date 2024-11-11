@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppView", "EmployeeMVC\AppView.csproj", "{4CF75531-0B1B-4DCF-A8F0-464300992AAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppData", "Employee\AppData.csproj", "{A3726499-F541-4ACC-8F2A-ABD5E38EBDBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAPI", "EmployeeAPI\AppAPI.csproj", "{FECBFAA4-2C33-4E1B-82B0-AEC700816BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF75531-0B1B-4DCF-A8F0-464300992AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF75531-0B1B-4DCF-A8F0-464300992AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF75531-0B1B-4DCF-A8F0-464300992AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF75531-0B1B-4DCF-A8F0-464300992AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3726499-F541-4ACC-8F2A-ABD5E38EBDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3726499-F541-4ACC-8F2A-ABD5E38EBDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3726499-F541-4ACC-8F2A-ABD5E38EBDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3726499-F541-4ACC-8F2A-ABD5E38EBDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECBFAA4-2C33-4E1B-82B0-AEC700816BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECBFAA4-2C33-4E1B-82B0-AEC700816BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECBFAA4-2C33-4E1B-82B0-AEC700816BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECBFAA4-2C33-4E1B-82B0-AEC700816BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079F3FF1-CC0A-4BFE-8F74-245F3ACF1793}
+	EndGlobalSection
+EndGlobal
